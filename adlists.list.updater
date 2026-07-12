@@ -2,11 +2,44 @@
 # Adlists from https://github.com/hagezi/dns-blocklists
 ########################################################
 
-# Multi PRO - Extended protection (Recommended)
-https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists@latest/adblock/pro.txt
-
 # Multi ULTIMATE - Aggressive protection
 https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists@latest/adblock/ultimate.txt
 
+# Social
+https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists@latest/adblock/social.txt
+
+# TIF
+https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists@latest/adblock/tif.txt
+
+# DOH/VPN/Proxy bypass
+https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists@latest/adblock/doh-vpn-proxy-bypass.txt
+
+# No SafeSearch
+https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists@latest/adblock/nosafesearch.txt
+
+# DynDNS
+https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists@latest/adblock/dyndns.txt
+
+# TLDs
+https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists@latest/adblock/spam-tlds.txt
+
+# DNS Rebind
+https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists@latest/adguard/dns-rebind-protection.txt
+
+# Piracy
+https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists@latest/adblock/anti.piracy.txt
+
+# Gambling
+https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists@latest/adblock/gambling.txt
+
 # NSFW
 https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists@latest/adblock/nsfw.txt
+
+# New Domains - 7 Days
+https://raw.githubusercontent.com/hagezi/nrd/main/adblock/nrd7.txt
+
+# New Domains - 14 Days
+https://raw.githubusercontent.com/hagezi/nrd/main/adblock/nrd14-8.txt
+
+# DGAs - 30 days
+https://raw.githubusercontent.com/hagezi/nrd/main/adblock/dga30.txt
